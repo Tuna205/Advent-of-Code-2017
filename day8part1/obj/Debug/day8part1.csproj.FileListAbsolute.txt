@@ -1,0 +1,7 @@
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\bin\Debug\day8part1.exe.config
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\bin\Debug\day8part1.exe
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\bin\Debug\day8part1.pdb
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\obj\Debug\day8part1.csprojResolveAssemblyReference.cache
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\obj\Debug\day8part1.csproj.CoreCompileInputs.cache
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\obj\Debug\day8part1.exe
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\day8part1\obj\Debug\day8part1.pdb
