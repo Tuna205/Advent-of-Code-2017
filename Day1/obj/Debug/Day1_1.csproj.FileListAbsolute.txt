@@ -1,0 +1,6 @@
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\bin\Debug\Day1.exe.config
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\bin\Debug\Day1.exe
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\bin\Debug\Day1.pdb
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\obj\Debug\Day1_1.csproj.CoreCompileInputs.cache
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\obj\Debug\Day1.exe
+C:\Users\tuna2\Source\Repos\AdventOfCode2017\Day1\obj\Debug\Day1.pdb
